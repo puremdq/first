@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.puremdq.first.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.puremdq.first.MyBundle
 
 class MyApplicationService {
 
